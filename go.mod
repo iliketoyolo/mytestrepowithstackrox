@@ -10,7 +10,7 @@ require (
 	cloud.google.com/go/compute v1.6.1
 	cloud.google.com/go/containeranalysis v0.3.0
 	cloud.google.com/go/storage v1.22.1
-	github.com/BurntSushi/toml v1.0.0
+	github.com/BurntSushi/toml v1.1.0
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/NYTimes/gziphandler v1.1.1
@@ -23,7 +23,7 @@ require (
 	github.com/cenkalti/backoff/v3 v3.2.2
 	github.com/ckaznocha/protoc-gen-lint v0.2.4
 	github.com/cloudflare/cfssl v1.6.1
-	github.com/containers/image/v5 v5.20.0
+	github.com/containers/image/v5 v5.21.1
 	github.com/coreos/go-oidc/v3 v3.2.0
 	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/couchbase/moss v0.1.0 // indirect
@@ -100,6 +100,7 @@ require (
 	github.com/tkuchiki/go-timezone v0.2.2
 	github.com/vbauerster/mpb/v4 v4.12.2
 	go.etcd.io/bbolt v1.3.6
+	go.opentelemetry.io/otel/internal/metric v0.27.0 // indirect
 	go.uber.org/atomic v1.9.0
 	go.uber.org/zap v1.21.0
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
