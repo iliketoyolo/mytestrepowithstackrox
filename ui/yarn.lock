@@ -3024,10 +3024,10 @@
     tippy.js "5.1.2"
     tslib "^2.0.0"
 
-"@patternfly/react-icons@^4.53.16":
-  version "4.53.16"
-  resolved "https://registry.yarnpkg.com/@patternfly/react-icons/-/react-icons-4.53.16.tgz#2ffb273d623d47952efefbf052fcb0e347a5bcb1"
-  integrity sha512-QQOZwl9MR71uNaKUPKJUm2qjvol28evN7GgyiqGn7fr0p4FnPopm9F5GsnKMsE/764/HGwGLjYHulUo3Eb06dQ==
+"@patternfly/react-icons@^4.53.16", "@patternfly/react-icons@^4.82.8":
+  version "4.82.8"
+  resolved "https://registry.yarnpkg.com/@patternfly/react-icons/-/react-icons-4.82.8.tgz#59ab1a139d3fc586fd384a58816e4608a060ee32"
+  integrity sha512-cKixprTiMLZRe/+kmdZ5suvYb9ly9p1f/HjlcNiWBfsiA8ZDEPmxJnVdend/YsafelC8YC9QGcQf97ay5PNhcw==
 
 "@patternfly/react-styles@^4.52.16":
   version "4.52.16"
